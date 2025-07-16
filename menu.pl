@@ -49,7 +49,7 @@ sub DisplayMenu {
     print "2- Modifier une séquence protéique\n";
     print "3- Afficher les protéines (ID Uniprot) référencées dans EnsemblPlants\n";
     print "4- Afficher les gènes référencés dans EnsemblPlant\n";
-    print "5- Afficher protéines dont l >= n choisit par l'utilisateur\n";
+    print "5- Afficher protéines dont l >= n choisi par l'utilisateur\n";
     print "6- Afficher caractéritiques d'une protéine (via ECnumber)\n";
     print "q- quit\n";
     print "\n";
