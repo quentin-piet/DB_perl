@@ -8,7 +8,7 @@ use DBI;
 
 ################################################# MAIN ##################################################################
 
-my $dbh = DBI->connect("DBI:Pg:dbname=qpiet;host=dbserver","qpiet","passwd",{'RaiseError' => 1});
+my $dbh = DBI->connect("DBI:Pg:dbname=qpiet;host=dbserver","qpiet","***",{'RaiseError' => 1});
 
 
 my $input = '';
